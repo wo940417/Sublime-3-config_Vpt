@@ -1,0 +1,1051 @@
+{
+	"folder_history":
+	[
+		"/E/demo/614",
+		"/E/wamp/www"
+	],
+	"last_version": 3083,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 657.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"hi",
+						"height"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"i",
+						"inline"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"c",
+						"clear"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"b",
+						"bolder"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"border",
+						"border-top"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"par",
+						"padding-right"
+					],
+					[
+						"m",
+						"margin"
+					],
+					[
+						"v",
+						"vertical-align"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"tetx",
+						"text-decoration"
+					],
+					[
+						"list",
+						"list-style"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/新建文件夹/w3c模仿网站.html",
+				"/C/Users/Administrator/Desktop/新建文本文档.html",
+				"/C/Users/Administrator/html/imgdemo.html",
+				"/C/Users/Administrator/html/nav1.png",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"label",
+					"ctrl+shift+c",
+					"browse",
+					"browser"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Administrator\\html\\style.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 91.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1062.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cont",
+						"container"
+					],
+					[
+						"offse",
+						"offsetWidth"
+					],
+					[
+						"off",
+						"offset	.offset()"
+					],
+					[
+						"getE",
+						"getElementsByClassName(\"head"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"boer",
+						"border-radius"
+					],
+					[
+						"f",
+						"family"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"s",
+						"solid"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"lin",
+						"lis-n	list-style: none;"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"h",
+						"html	html"
+					],
+					[
+						"getElementBy",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"sel",
+						"selectRandom〔function〕"
+					],
+					[
+						"doc",
+						"doc-10"
+					],
+					[
+						"aler",
+						"alert〔function〕"
+					],
+					[
+						"type",
+						"typeof〔keyword〕"
+					],
+					[
+						"mysql",
+						"mysqli_connect"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"tex",
+						"text-indent"
+					],
+					[
+						"bow",
+						"box-shadow"
+					],
+					[
+						"l",
+						"legend	Tag"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"new",
+						"newClassName"
+					],
+					[
+						"elem",
+						"element"
+					],
+					[
+						"insert",
+						"insertBefore	.insertBefore()"
+					],
+					[
+						"inset",
+						"insertBefore	.insertBefore()"
+					],
+					[
+						"tar",
+						"targetElement"
+					],
+					[
+						"cr",
+						"createTextNode〔function〕"
+					],
+					[
+						"cre",
+						"createElement〔function〕"
+					],
+					[
+						"prepa",
+						"prepareShowPic"
+					],
+					[
+						"show",
+						"showPic"
+					],
+					[
+						"get",
+						"getElementById〔function〕"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"so",
+						"solid〔value〕"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"ge",
+						"getElementById〔function〕"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"e",
+						"echo	echo \"…\""
+					],
+					[
+						"mysql_",
+						"mysql_close〔function〕"
+					],
+					[
+						"_",
+						"$_SERVER〔variable〕"
+					],
+					[
+						"ac",
+						"action	Attr"
+					],
+					[
+						"mysql_s",
+						"mysql_select_db"
+					],
+					[
+						"margi",
+						"margin-right"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"input",
+						"input^label"
+					],
+					[
+						"ta",
+						"target	Attr"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"log",
+						"loging"
+					],
+					[
+						"id",
+						"id=〔attribute〕"
+					],
+					[
+						"o",
+						"other"
+					],
+					[
+						"wh",
+						"what_they_did"
+					],
+					[
+						"las",
+						"last_name"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"re",
+						"$result〔variable〕"
+					],
+					[
+						"fang",
+						"fang_spotted"
+					],
+					[
+						"how",
+						"how_many"
+					],
+					[
+						"when",
+						"when_it_happened"
+					],
+					[
+						"al",
+						"alien_description"
+					],
+					[
+						"mysql_c",
+						"mysql_connect〔function〕"
+					],
+					[
+						"fa",
+						"$fang_spotted〔variable〕"
+					],
+					[
+						"echo",
+						"echo〔keyword〕"
+					],
+					[
+						"descr",
+						"description"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"hi",
+						"height"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"i",
+						"inline"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"par",
+						"padding-right"
+					],
+					[
+						"m",
+						"margin"
+					],
+					[
+						"v",
+						"vertical-align"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"tetx",
+						"text-decoration"
+					],
+					[
+						"list",
+						"list-style"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "vi",
+				"selected_items":
+				[
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/demo/614",
+				"/E/demo/614/css",
+				"/E/demo/614/js",
+				"/E/demo/614/members",
+				"/E/demo/614/members/vpt_ye",
+				"/E/demo/614/members/zhaoliwei"
+			],
+			"file_history":
+			[
+				"/E/demo/614/js/memberJs.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/demo/614/css/chooseCss.css",
+				"/E/demo/614/css/vpt-style.css",
+				"/E/demo/614/members/vpt_ye/vpt.html",
+				"/E/demo/614/js/No5.js",
+				"/E/demo/614/choose.html",
+				"/E/demo/614/js/chooseJs.js",
+				"/E/demo/614/members/lihao/lihao.html",
+				"/E/demo/614/members/zhaoliwei/zhaoliwei.html",
+				"/E/demo/614/end.html",
+				"/C/Users/Administrator/Desktop/demo.htm",
+				"/E/demo/demo1/js/app.js",
+				"/E/demo/614/index.html",
+				"/H/BaiduYunDownload/HTML5/76-HTML5开发项目实战：侧边栏固定/关键代码.txt",
+				"/H/BaiduYunDownload/JavaScript/11-Javascript瀑布流/JSWallper/js/waterfall.js",
+				"/H/BaiduYunDownload/vpt.js",
+				"/C/Users/Administrator/Desktop/ClosureExample01.htm",
+				"/E/我的文档/源码/Javascript 高级程序设计（第3版）源代码/Ch07/ClosureExample02.htm",
+				"/E/我的文档/源码/Javascript 高级程序设计（第3版）源代码/Ch06/GetPropertyDescriptorExample01.htm",
+				"/C/Users/Administrator/Desktop/demo.js",
+				"/C/Users/Administrator/Documents/Visual Studio 2013/WebSites/WebSite1/default.aspx",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/360极速浏览器下载/PhptoolCracker/default.aspx",
+				"/C/Users/Administrator/Desktop/web/PHP与MySQL动态网站开发(第4版)/ch09/mysqli_connect.php",
+				"/C/Users/Administrator/Desktop/demo.html",
+				"/D/Program Files/WinRAR/rarreg.key",
+				"/D/360极速浏览器下载/hosts",
+				"/E/xampp/htdocs/wp-content/themes/forget/functions.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/archive.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/footer.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/js/realgravatar.js",
+				"/E/xampp/htdocs/wp-content/themes/forget/js/alljp.js",
+				"/E/xampp/htdocs/wp-content/themes/forget/index.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/admin/forget.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/js/jquery.js",
+				"/E/xampp/htdocs/wp-content/themes/forget/header.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/page/readers.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/modules/template.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/modules/function.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/modules/excerpt.php",
+				"/E/xampp/htdocs/wp-content/themes/forget/admin/admin.css",
+				"/E/xampp/htdocs/wp-content/themes/forget/admin/index.php",
+				"/E/xampp/htdocs/mysqli_connect.php",
+				"/E/xampp/htdocs/index.php",
+				"/E/xampp/htdocs/wp-blog-header.php",
+				"/E/xampp/htdocs/usr/themes/default/header.php",
+				"/C/Windows/System32/drivers/etc/hosts_backup",
+				"/C/Users/Administrator/hello/platforms/android/assets/www/index.html",
+				"/C/Windows/System32/drivers/etc/hosts.bak",
+				"/E/xampp/htdocs/1/register.php",
+				"/E/xampp/htdocs/1/mysqli_connect.php",
+				"/E/wamp/www/register.php",
+				"/E/xampp/htdocs/usr/themes/default/index.php",
+				"/E/xampp/htdocs/usr/themes/default/footer.php",
+				"/E/xampp/phpMyAdmin/config.inc.php",
+				"/E/wamp/www/log.php",
+				"/C/Users/Administrator/Desktop/web/CSS禅意花园-源代码/013/013.css",
+				"/D/360极速浏览器下载/beautiful404error/404error/index2.html",
+				"/E/wamp/www/css/screen.css",
+				"/E/wamp/www/index.html",
+				"/E/wamp/www/css/reset.css",
+				"/C/Users/Administrator/Desktop/register.php",
+				"/E/wamp/www/sorting.php",
+				"/C/Users/Administrator/Desktop/s.html",
+				"/E/wamp/www/ssss/2/css/screen.css",
+				"/E/wamp/www/ssss/2/css/master.css",
+				"/E/html/html/web/css/style.css",
+				"/E/html/html/web/index.html",
+				"/C/Users/Administrator/Desktop/web/Examples-cSS/chapter08/demo.html",
+				"/E/wamp/www/demo/css/drop.css",
+				"/E/wamp/www/demo/drop.html",
+				"/C/Users/Administrator/Desktop/web/Examples-cSS/chapter08/faux-3-col-liquid.htm",
+				"/C/Users/Administrator/Desktop/web/Examples-cSS/chapter08/faux-3-col-fixed.htm",
+				"/C/Users/Administrator/Desktop/web/Examples-cSS/chapter08/2-col-fixed.htm",
+				"/E/wamp/www/demo/crossDemo.html",
+				"/E/wamp/www/demo/css/crossCss.css",
+				"/C/test.js",
+				"/C/Users/Administrator/Desktop/web/Examples-cSS/chapter05/buttons.htm",
+				"/H/BaiduYunDownload/Examples-cSS/chapter01/microformats.htm",
+				"/H/新建文件夹 (2)/新建文本文档.html",
+				"/H/新建文件夹 (2)/index.html",
+				"/H/新建文件夹 (2)/css/fancybox.css",
+				"/H/新建文件夹 (2)/css/jquery.fullPage.css",
+				"/H/新建文件夹 (2)/css/animation.css",
+				"/H/新建文件夹 (2)/css/新建文本文档.css",
+				"/H/新建文件夹 (2)/新建文本文档.htnl",
+				"/H/新建文件夹/html/web/index.html",
+				"/C/Users/Administrator/html/maded/htmldemo/w3c模仿网站.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSCS-Formatter/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Documents/insert.php",
+				"/C/Users/Administrator/Documents/index.html",
+				"/E/wamp/www/imgDemo.htm",
+				"/E/vpt/css/index.css",
+				"/E/wamp/www/js/linshi.js",
+				"/E/wamp/www/js/vpt.js",
+				"/E/我的文档/JavaScript DOM编程艺术(第2版)-源代码/chapter07/image_gallery/04/gallery.html",
+				"/E/我的文档/JavaScript DOM编程艺术(第2版)-源代码/chapter07/image_gallery/04/scripts/showPic.js",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/E/wamp/www/js/linshi",
+				"/D/360极速浏览器下载/JavaScript DOM编程艺术(第2版)-源代码/chapter06/image_gallery/03/scripts/showPic.js",
+				"/D/360极速浏览器下载/JavaScript DOM编程艺术(第2版)-源代码/chapter06/image_gallery/01/scripts/showPic.js",
+				"/E/wamp/www/script.htm",
+				"/E/vpt/inputdemo.html",
+				"/C/Users/Administrator/Desktop/新建文件夹/index.html",
+				"/D/360极速浏览器下载/bootstrap-3.3.4/dist/css/bootstrap.css",
+				"/D/360极速浏览器下载/bootstrap-3.3.4/dist/js/bootstrap.js",
+				"/D/360极速浏览器下载/bootstrap-3.3.4/dist/css/bootstrap.min.css",
+				"/C/Users/Administrator/Desktop/demohtnl/新建文件夹/register.php",
+				"/E/wamp/www/addscore.php",
+				"/C/Users/Administrator/Desktop/css/indexcss.css",
+				"/C/Users/Administrator/Desktop/log.php",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch04/final/makemeelvis/removeemail.php",
+				"/E/wamp/www/css/register.css",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch04/final/makemeelvis/sendemail.php",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch03/final/makemeelvis/sendemail.php",
+				"/E/wamp/www/oo1.php",
+				"/C/Users/Administrator/Desktop/demohtnl/新建文件夹/css/register.css",
+				"/C/Users/Administrator/Desktop/demohtnl/新建文件夹/css/indexcss.css",
+				"/C/Users/Administrator/Desktop/demohtnl/新建文件夹/index.html",
+				"/C/Users/Administrator/Documents/oo1.php",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch04/final/makemeelvis/addemail.php",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch03/final/makemeelvis/removeemail.php",
+				"/C/Users/Administrator/Desktop/网页制作/examples/ch03/final/makemeelvis/addemail.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alert",
+					"duo",
+					"域名",
+					";\n",
+					"li",
+					"></",
+					"());\n",
+					"font-family:",
+					"navbar-inner",
+					"nav",
+					"nav-collapse collapse",
+					"scroll",
+					"head",
+					"script",
+					"label",
+					"ctrl+shift+c",
+					"browse",
+					"browser"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\demo\\614"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 70.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,845,85,67,1317",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Administrator\\AppData\\Roaming\\Sublime Text 3\\Packages\\Emmet\\Emmet.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 146.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
