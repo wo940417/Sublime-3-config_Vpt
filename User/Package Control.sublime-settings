@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoCompleteJS",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"JSHint",
+		"jshintify",
+		"Package Control",
+		"Solarized Toggle",
+		"SublimeCodeIntel",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-php",
+		"SublimeTmpl",
+		"Theme - Spacegray"
+	]
+}
